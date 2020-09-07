@@ -1,6 +1,6 @@
 # Sveditor-UI
 
-#### This project is hosted here: [sveditor-api.vercel.app](https://sveditor-api.vercel.app)
+#### This project is hosted here: [sveditor-ui.vercel.app](https://sveditor-ui.vercel.app)
 
 Sveditor is built to allow people to easily create and use svgs within their github project README's. This repository
  houses the UI aspect of this project which allows one to visually create SVG and then subsequently provides a means to consume them - namely through to Sveditor (serverless) api.
