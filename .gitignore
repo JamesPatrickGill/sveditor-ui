@@ -1,0 +1,8 @@
+/node_modules/
+/public/build/
+/package-lock.json
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/codeStyles/Project.xml
+/.idea/modules.xml
+/.idea/sveditor-ui.iml
+/.idea/workspace.xml
