@@ -4,7 +4,7 @@
   import { layers } from "../../../modules/stores/stores";
 
   let snippet;
-  $: snippet = `<img src="https://sveditor-api.vercel.app/api/?options={encodeURIComponent(JSON.stringify($layers))}" />`;
+  $: snippet = `<img src="https://sveditor-api.vercel.app/api/?options=${encodeURIComponent(JSON.stringify($layers))}" />`;
 </script>
 
 <div class="previewing">
