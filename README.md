@@ -1,4 +1,4 @@
-# Sveditor-UI - v0.1.0
+# Sveditor-UI - v0.1.0 (_alpha_)
 
 #### This project is hosted here: [sveditor-ui.vercel.app](https://sveditor-ui.vercel.app)
 
